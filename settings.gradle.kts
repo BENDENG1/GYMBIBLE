@@ -15,4 +15,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "GYMBIBLE"
 include(":app")
- 
+include(":presentation")
+include(":data")
+include(":domain")

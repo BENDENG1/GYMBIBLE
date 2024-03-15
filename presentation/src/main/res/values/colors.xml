@@ -12,6 +12,15 @@
     <color name="primary7">#FF23395B</color>
     <color name="primary8">#FF161925</color>
 
+    <color name="primary1_dark">#FFB3B3B3</color>
+    <color name="primary2_dark">#FFB0DFE4</color>
+    <color name="primary3_dark">#FF6E8E94</color>
+    <color name="primary4_dark">#FF595D5F</color>
+    <color name="primary5_dark">#FF616C74</color>
+    <color name="primary6_dark">#FF1A4545</color>
+    <color name="primary7_dark">#FF11222E</color>
+    <color name="primary8_dark">#FF0B090C</color>
+
 
     <color name="dark1">#FF1D1F24</color>
     <color name="dark2">#FF394254</color>

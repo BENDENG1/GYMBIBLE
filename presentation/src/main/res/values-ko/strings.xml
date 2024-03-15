@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GYMBIBLE</string>
+    <string name="nav_home">홈</string>
+    <string name="nav_history">기록</string>
+    <string name="nav_mypage">마이 페이지</string>
+</resources>

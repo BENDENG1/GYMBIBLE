@@ -21,12 +21,13 @@
     <color name="dark6">#FF394254</color>
     <color name="dark7">#FF1D1F24</color>
 
-    <color name="rainbow_red">#FFCC4141</color>
-    <color name="rainbow_orange">#FFF59A11</color>
-    <color name="rainbow_yellow">#FFE0DC88</color>
-    <color name="rainbow_green">#FF4AA754</color>
-    <color name="rainbow_blue">#FF0D1986</color>
-    <color name="rainbow_indigo">#FF222152</color>
-    <color name="rainbow_purple">#FF643E71</color>
+    <color name="rainbow_red">#FFFF7F7F</color>
+    <color name="rainbow_orange">#FFFFB365</color>
+    <color name="rainbow_yellow">#FFFFF3BF</color>
+    <color name="rainbow_green">#FF7FE97C</color>
+    <color name="rainbow_blue">#2196F3</color>
+    <color name="rainbow_indigo">#672AD5</color>
+    <color name="rainbow_purple">#D53DEF</color>
+
 
 </resources>

@@ -4,4 +4,5 @@
     <string name="nav_home">Home</string>
     <string name="nav_history">History</string>
     <string name="nav_mypage">My Page</string>
+    <string name="home_today_motivation">Today Motivation</string>
 </resources>

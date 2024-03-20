@@ -4,4 +4,5 @@
     <string name="nav_home">홈</string>
     <string name="nav_history">기록</string>
     <string name="nav_mypage">마이 페이지</string>
+    <string name="home_today_motivation">오늘의 동기부여</string>
 </resources>

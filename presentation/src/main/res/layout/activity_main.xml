@@ -28,7 +28,7 @@
             android:id="@+id/bnv_nav_bar"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:background="@color/primary1"
+            android:background="@color/dark7"
             app:itemIconTint="@drawable/menu_selector_style"
             app:itemTextColor="@drawable/menu_selector_style"
             app:layout_constraintBottom_toBottomOf="parent"

@@ -48,6 +48,7 @@ dependencies {
     implementation(project(":presentation"))
 
     implementation("androidx.core:core-ktx:1.9.0")
+    implementation("androidx.datastore:datastore-core:1.0.0")
 
     // hilt
     val hiltVersion = "2.48"
